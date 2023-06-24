@@ -1,0 +1,31 @@
+.table {
+    background-color: #fff;
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+    border-radius: 0.3125rem;
+    box-shadow: 0 2px 3px 0 hsla(0, 0%, 61.2%, 0.16);
+    -webkit-border-radius: 0.3125rem;
+  }
+  .codeSubmission {
+    font-size: 1rem;
+    padding: 12px 16px;
+    border: 1px solid #7e8e9f;
+    border-radius: 8px;
+    width: 100%;
+  }
+  .reqbuttoncreate {
+    height: 48px;
+    background: #4b0dba;
+    border: 1px solid var(--primary-color-button-links);
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-bottom: 18px;
+  }
+  .btn {
+      color: #fff!important;
+      cursor: pointer;
+  }
+  .btn:hover{
+      color: black !important;;
+  }

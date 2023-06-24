@@ -1,0 +1,66 @@
+.zen-logo1 {
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    vertical-align: middle;
+  }
+  .secOne {
+    background: #fff;
+    border-right: 1px solid #e5e5e5;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    width: 72px;
+    overflow: hidden;
+    -webkit-transform: translateZ(0) scale(1);
+    transform: translateZ(0) scale(1);
+    -webkit-transition: width 0.3s ease;
+    transition: width 0.3s ease;
+    z-index: 1000;
+  }
+  .secOne:hover {
+    width: 200px;
+  }
+  .sidebar-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    list-style: none;
+    /* margin-top: 30px; */
+    margin-left: 0px !important;
+  }
+  .sidebar-list li {
+    font-size: 12px;
+    font-weight: 500;
+    width: 200px;
+    margin-top: 30px;
+  }
+  .iconx {
+    padding-right: 30px;
+    font-size: 16px;
+    display: flex;
+    justify-content: start;
+  }
+  .nav-list {
+    margin-left: -15px;
+  }
+  .sidebar-list li a {
+    text-decoration: none;
+    color: #7a7a7a;
+  }
+  .sidebar-list li a:hover {
+    color: #4b0dba;
+  }
+  .sidebar-list li a:active {
+    color: #4b0dba;
+  }
+  .sideContainer {
+    display: flex;
+    flex-direction: column;
+  }
