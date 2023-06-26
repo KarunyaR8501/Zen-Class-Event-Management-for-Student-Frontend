@@ -40,9 +40,20 @@ function Stucapstone() {
                   <div className="col-sm-8">
                     <div className="card" key={idx}>
                       <div className="card-body">
-                        <h5 className="card-title">Title : {val.title}</h5>
+                        <h5 className="card-title">Title : Zen class Event Management for students</h5>
                         <h6>Any specific requirements</h6>
-                        <p className="card-text" style={{textAlign:'left'}}>{val.specific}</p>
+                        <p className="card-text" style={{textAlign:'left'}}>The project should achieve the CODE QUALITY
+                                                                       Use fonts/icons if it’s required in the design.
+                                                                      The use of various charts is required in the design.
+                                                                        The use of bootstrap/ material CSS is required in the design.
+                                                                        
+                                                                        How do I submit my work?
+
+                                                            Push all your work files to GitHub in two different repositories as given below
+                                                            Front-end repo name project-name-frontend.
+                                                            Back-end repo name project-name-backend.
+                                                            Deploy your front-end application on Netlify(https://www.netlify.com) and 
+                                                            back-end application on Render(https://render.com/).</p>
                       </div>
                     </div>
                   <table className="table">

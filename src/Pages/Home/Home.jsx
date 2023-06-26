@@ -81,7 +81,7 @@ export default function Home() {
                   {fill?.topic}
                 </span>
                 <br />
-                13/10/2022 - Thursday - 10:00 AM : 12:30 PM
+                13/04/2023 - Thursday - 10:00 AM : 12:30 PM
                 <hr />
                 <div className="preread-head">contents:</div>
                 <div className="ml-3">
@@ -100,9 +100,9 @@ export default function Home() {
                   Javascript - Day -1 : Introduction to Browser & web
                 </span>
                 <br />
-                13/10/2022 - Thursday - 10:00 AM : 12:30 PM
+                09/01/2023 - Monday - 10:00 AM : 12:30 PM
                 <hr />
-                <div className="preread-head">contents:</div>
+                <div className="preread-head">Contents:</div>
                 <div className="ml-3">
                   <span className="preread">
                     Introduction to web Browser Wars DOM tree CSSOM tree,
@@ -218,10 +218,10 @@ export default function Home() {
                       <div className="addSessionContainer">
                         <div className="addSession">
                           <h5 style={{ fontWeight: "450" }}>
-                            system Design Day 2: 26th March 2023 @10 AM
+                            System Design Day 2
                           </h5>
                           <p style={{ fontWeight: "250", margin: "0px" }}>
-                            26/03/2023 - Sunday - 10:00 AM : 1:00 PM
+                          10/06/2023 -  Saturday - 3:00 PM : 5:30 PM
                           </p>
                         </div>
                       </div>
