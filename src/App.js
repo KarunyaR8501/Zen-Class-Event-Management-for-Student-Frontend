@@ -20,7 +20,7 @@ function App() {
             <Route exact path="/home" element={<Home />} />
             <Route path="/eventManage" element={<Event/> }/>
             <Route path="/stucapstone" element={<Stucapstone />} />
-            <Route path="/capstone/:userId" element={<Capstone />} />
+            <Route path="/home/capstone/:userId" element={<Capstone/>} />
             <Route path="/batchCreate" element={<Batches />} />
           </>
         ) : (
