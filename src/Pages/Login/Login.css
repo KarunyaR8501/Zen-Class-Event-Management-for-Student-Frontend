@@ -30,6 +30,7 @@
     color: #7e8e9f;
   }
   .form-label {
+    
     display: flex;
     justify-content: start;
   }
@@ -40,4 +41,10 @@
   .img-class {
     max-width: 500px;
     height: 100vh;
+  }
+  .user{
+    margin-top: 35px;
+  }
+  .form{
+   margin-top: -80px;
   }

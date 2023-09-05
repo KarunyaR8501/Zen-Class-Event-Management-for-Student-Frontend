@@ -25,8 +25,10 @@ export default function Sidebar() {
               <Link to={"/home"}>
                 <span className="iconx">
                   <Icon icon="healthicons:i-training-class-negative" />
-                </span>
+                
+                </span><div className="names">
                 Class
+                </div>
               </Link>
             </li>
             <li>
@@ -34,7 +36,10 @@ export default function Sidebar() {
                 <span className="iconx">
                   <Icon icon="bi:calendar-event-fill" />
                 </span>
+                
+                <div className="names">
                 Events
+                </div>
               </Link>
             </li>
             <li>
@@ -42,7 +47,9 @@ export default function Sidebar() {
                 <span className="iconx">
                   <Icon icon="fluent:contact-card-group-16-filled" />
                 </span>
+                <div className="names">
                 Batches
+                </div>
               </Link>
             </li>
           </ul>
@@ -53,7 +60,9 @@ export default function Sidebar() {
                 <span className="iconx">
                   <Icon icon="healthicons:i-training-class-negative" />
                 </span>
+                <div className="names">
                 Class
+                </div>
               </Link>
             </li>
             <li>
@@ -61,7 +70,9 @@ export default function Sidebar() {
                 <span className="iconx">
                   <Icon icon="fluent:clipboard-task-list-ltr-24-filled" />
                 </span>
+                <div className="names">
                 Capstone
+                </div>
               </Link>
             </li>
           </ul>
